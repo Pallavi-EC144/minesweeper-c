@@ -1,0 +1,11 @@
+# Object files
+*.o
+obj/
+
+# Executable
+minesweeper
+
+# Editor files
+*.swp
+*.swo
+.vscode/
